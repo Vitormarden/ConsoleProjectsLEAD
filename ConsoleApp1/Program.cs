@@ -12,7 +12,9 @@
         string? v = Console.ReadLine();
         var remuneração_bruta = v;
 
-        Console.WriteLine($"Olá, {nome, idade}.");
+        var saida = $"olá, {nome}. você é um {ocupação} de {idade} anos, e sua remuneração é {remuneração_bruta}";
+
+        Console.WriteLine(saida);
 
     }
 }
