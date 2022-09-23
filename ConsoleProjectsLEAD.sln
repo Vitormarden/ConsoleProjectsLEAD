@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcDeSegundoGrau", "cal de segundo grau\CalcDeSegundoGrau.csproj", "{5426A824-DD64-4BED-AF84-405F88059C3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{DB14A3CD-518A-4CAA-B759-2CF1672D75FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "BankAccount\BankAccount.csproj", "{DB14A3CD-518A-4CAA-B759-2CF1672D75FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaDaFiguraGeometrica", "AreaDaFiguraGeométrica\AreaDaFiguraGeometrica.csproj", "{B3F1CAAB-0B48-4863-A922-6D61760DBE5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DB14A3CD-518A-4CAA-B759-2CF1672D75FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB14A3CD-518A-4CAA-B759-2CF1672D75FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB14A3CD-518A-4CAA-B759-2CF1672D75FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F1CAAB-0B48-4863-A922-6D61760DBE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F1CAAB-0B48-4863-A922-6D61760DBE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F1CAAB-0B48-4863-A922-6D61760DBE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F1CAAB-0B48-4863-A922-6D61760DBE5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
